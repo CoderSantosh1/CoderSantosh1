@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codersantoshs1&label=Profile%20views&color=0e75b6&style=flat" alt="codersantoshs1" /> </p>
 
-- 🔭 I’m currently working VIGYANTRAM TECHNOLOGY [Software engineer](https://www.vigyantram.com/)
+- 🔭 I’m currently working VIGYANTRAM TECHNOLOGY [SOFTWARE ENGINEER](https://www.vigyantram.com/)
 
 - 🌱 I’m currently learning Coding Ninja **Full Stack developer**
 
