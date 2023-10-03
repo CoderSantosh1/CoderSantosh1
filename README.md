@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Santosh kumar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+alt="codersantoshs1" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codersantoshs1&label=Profile%20views&color=0e75b6&style=flat" alt="codersantoshs1" /> </p>
+- 🔭 I’m currently working VIGYANTRAM TECHNOLOGY [Software engineer](https://www.vigyantram.com/)
 
+- 🌱 I’m currently learning Coding Ninja **Full Stack developer**
+
+- 👯 I’m looking to collaborate on Coding Ninja **https://classroom.codingninjas.com/app/classroomcom/app/classroom**
+
+- 👨‍💻 All of my projects are available at [https://github.com/CoderSantosh1?tab=repositories](https://github.com/CoderSantosh1?tab=repositories)
+
+- 📫 How to reach me **santoshbishwas99@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yaduvanshiking1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santosh-kumar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Yaduvanshiking11) 
