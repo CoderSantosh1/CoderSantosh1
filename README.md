@@ -13,10 +13,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/CoderSantosh1?tab=repositories](https://github.com/CoderSantosh1?tab=repositories)
 
 - 📫 How to reach me **santoshbishwas99@gmail.com**
-- - 📄 Know about my experiences [https://docs.google.com/document/d/1IZoDVHcTyGYZp2JcqMQvWCr4AgU0VVpb/edit?usp=drive_link&ouid=104349141938742891078&rtpof=true&sd=true](https://docs.google.com/document/d/1IZoDVHcTyGYZp2JcqMQvWCr4AgU0VVpb/edit?usp=drive_link&ouid=104349141938742891078&rtpof=true&sd=true)
-
-- ⚡ Fun fact **I am Funny**
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Yaduvanshiking1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santosh-kumar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@YAUVANSHIKING11) 
