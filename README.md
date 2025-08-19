@@ -89,4 +89,4 @@ github-readme-streak-stats.herokuapp.com
 <p><a href="https://www.buymeacoffee.com/veerkbharti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="veerkbharti" /></a></p><br><br>
 
 <br>
-<p align="center"><a href="https://app.daily.dev/veerkbharti"><img src="https://api.daily.dev/devcards/v2/9c2TduX5aK7RZOVx1YI4u.png?type=default&r=mla" width="356" alt="Veer Kunwer Bharti's Dev Card"/></a></p>  
+<p align="center"><a href="https://app.daily.dev/santoshcoder"><img src="https://api.daily.dev/devcards/v2/DULLZgsiouFTfLOeilf4d.png?type=default&r=rbk" width="356" alt="Santosh's Dev Card"/></a></a></p>  
