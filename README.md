@@ -76,7 +76,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veerkbharti" alt="veerkbharti" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veerkbharti" alt="veerkbharti" /></a> </p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderSantosh1&show_icons=true&locale=en&layout=compact" alt="santosh kumar" /></p>
 
