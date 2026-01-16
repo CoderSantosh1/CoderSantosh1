@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
-<p align="center">I'm a passionate full-stack developer with 2 years of experience building web applications. I'm proficient in a variety of technologies, including JavaScript, Node.js,  React, Angular, SQL/NoSQL databases, Docker and Git.</p>
+<p align="centre">I'm a passionate full-stack developer with 2 years of experience building web applications. I'm proficient in a variety of technologies, including JavaScript, Node.js,  React, Angular, SQL/NoSQL databases, Docker and Git.</p>
 
 # About Me
 
