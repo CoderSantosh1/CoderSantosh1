@@ -1,4 +1,4 @@
-![MasterHead]([https://github.com/veerkbharti/veerkbharti/blob/main/banner.gif](https://raw.githubusercontent.com/codedex-io/projects/main/projects/build-a-pomodoro-app-with-html-css-js/header.gif))
+![MasterHead](https://raw.githubusercontent.com/codedex-io/projects/main/projects/build-a-pomodoro-app-with-html-css-js/header.gif)
 
 
 <h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
