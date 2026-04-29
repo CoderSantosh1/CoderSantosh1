@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/CoderSantosh1/CoderSantosh1/a037e7e7b021c2cb288f1ff05d19f5d05ed2be32/coder.png)
+![MasterHead](https://raw.githubusercontent.com/CoderSantosh1/CoderSantosh1/refs/heads/main/animate-video.gif)
 
 
 <h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
