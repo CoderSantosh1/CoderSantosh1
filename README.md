@@ -1,8 +1,8 @@
-![MasterHead](https://github.com/veerkbharti/veerkbharti/blob/main/banner.gif)
+![MasterHead]([https://github.com/veerkbharti/veerkbharti/blob/main/banner.gif](https://raw.githubusercontent.com/codedex-io/projects/main/projects/build-a-pomodoro-app-with-html-css-js/header.gif))
 
 
 <h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
-<p align="centre">I'm a passionate full-stack developer with 2 years of experience building web applications. I'm proficient in a variety of technologies, including JavaScript, Node.js,  React, Angular, SQL/NoSQL databases, Docker and Git.</p>
+<p align="centre">I'm a passionate full-stack developer with 2 years of experience building web applications. I'm proficient in a variety of technologies, including JavaScript, Node.js,  React, Angular, SQL/NoSQL databases, Docker, and Git.</p>
 
 # About Me
 
