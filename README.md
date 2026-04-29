@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1xzanwQiE_RYEuLV9_ETwfB3oIY_Ohi9h/view?usp=sharing)
+![MasterHead](https://raw.githubusercontent.com/CoderSantosh1/CoderSantosh1/a037e7e7b021c2cb288f1ff05d19f5d05ed2be32/coder.png)
 
 
 <h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
