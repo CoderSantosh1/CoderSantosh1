@@ -34,32 +34,25 @@ I specialize in modern JavaScript frameworks and love turning ideas into real-wo
 
 ## 🛠️ Tech Stack
 
-### 💡 Frontend
-- HTML, CSS, Sass
-- JavaScript (ES6+)
-- React.js, Next.js
-- Redux, Tailwind CSS, Bootstrap
-- Chart.js, D3.js
+### 🚀 Frontend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,redux,tailwind,bootstrap,angular" />
+</p>
 
 ### ⚙️ Backend
-- Node.js, Express.js
-- PHP, Laravel
-- Firebase
-- REST APIs
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,firebase" />
+</p>
 
 ### 🗄️ Database
-- MongoDB
-- MySQL
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### ⚒️ Tools & DevOps
-- Git, GitHub
-- Docker
-- AWS
-- Nginx
-- Webpack, Babel
-- Postman
-
----
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,nginx,webpack,babel,postman" />
+</p>
 
 ## 📊 GitHub Stats
 
