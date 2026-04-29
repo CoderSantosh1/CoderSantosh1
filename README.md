@@ -71,7 +71,7 @@ I specialize in modern JavaScript frameworks and love turning ideas into real-wo
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-tau-woad-56.vercel.app/api/top-langs/?username=CoderSantosh1&layout=compact&theme=radical&count_private=true" />
+<img src="https://github-readme-stats-tau-woad-56.vercel.app/api/top-langs/?username=CoderSantosh1&layout=compact&theme=radical&count_private=true&exclude_repo=repo-name&langs_count=6" />
 </p>
 
 ---
