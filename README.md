@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Full Stack Developer | React • Node • Next.js</h3>
 
 <p align="center">
-Passionate Full Stack Developer with 2+ years of experience building scalable, high-performance web applications.  
+Passionate Full Stack Developer with 3+ years of experience building scalable, high-performance web applications.  
 I specialize in modern JavaScript frameworks and love turning ideas into real-world products.
 </p>
 
