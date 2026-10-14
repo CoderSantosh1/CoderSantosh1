@@ -66,13 +66,13 @@ I specialize in modern JavaScript frameworks and love turning ideas into real-wo
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats-tau-woad-56.vercel.app/api?username=CoderSantosh1&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats-tau-woad-56.vercel.app/api/top-langs/?username=CoderSantosh1&layout=compact&theme=radical&hide=python" />
-</p>
+</p> -->
 
 ---
 
