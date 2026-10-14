@@ -87,7 +87,7 @@ I specialize in modern JavaScript frameworks and love turning ideas into real-wo
 ## ☕ Support Me
 
 <p>
-<a href="https://www.buymeacoffee.com/veerkbharti">
+<a href="https://www.buymeacoffee.com/santoshcoder">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
 </a>
 </p>
